@@ -11,6 +11,7 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+pandas-profiling = "*"
 
 [dev-packages]
 
