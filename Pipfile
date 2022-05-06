@@ -13,6 +13,7 @@ matplotlib = "*"
 seaborn = "*"
 pandas-profiling = "*"
 sns = "*"
+sklearn = "*"
 
 [dev-packages]
 
