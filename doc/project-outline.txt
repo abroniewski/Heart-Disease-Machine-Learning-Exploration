@@ -1,0 +1,65 @@
+Import
+- DataSplit
+    - final_text vs training with stratify
+
+
+PreProcessing
+- shape
+- describe
+- change types for values
+    - string to numerical for target
+    - one-hot encoding for categorical variables that are not ordered (TODO)
+- look for nulls, missing values, incorrect values
+- find outliers + decide what to do with them
+    - IQR + commentary
+- create function for processing test data (TODO)
+
+
+Data Exploration and Analysis
+- initial visualizations
+    - continuous variables
+        - distribution (normal? logarithmic?)
+        - comments on continuous attribute impact for target
+    - categorical variables
+        - counts vs target vs sex
+        - comments on categorical attribute impact for target
+    - deep dive into ST_depression, which looks especially interesting
+    - evaluate correlation between attributes
+        - comment on correlation + hypothesis of which attributes will have most impact on target
+
+
+Metrics
+- comment on which metric we are using for choice and why
+- create base dataframe for all appends
+
+
+Models
+- if RandomForest:
+    Model Contextualization + Improvement
+    - use RandomForest to determine feature importance
+    - check these features against correlation from EDA + comment
+    - create subset of x_train with only features of importance
+for algorithm in (RandomForest, LogisticRegression, NeuralNetwork, DecisionTree)
+    - build simple model with fullset
+    - collect metrics
+    for subset in (fullset, important subset)
+        - tune parameters of model (argument in function call + which attributes used)
+        - collect metrics
+    - choose best model (i.e. best parameters + subset used) for each algorithm
+
+
+Algorithm Choice
+- choose best algorithm (could end up with full vs sub set competing)
+
+
+Final Test
+- Test algorithm with final_test data
+- collect metrics
+- discuss results
+
+
+Questions:
+- processing our test data -> should be done through a function similar to lab08?
+- how to choose the metric used scoring and choosing the model/algorithm?
+- can I tell if some of my attributes are just noise in my neural network?
+
