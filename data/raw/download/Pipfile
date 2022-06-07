@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 graphviz = "*"
+mlxtend = "*"
+sklearn = "*"
+numpy = "*"
 
 [dev-packages]
 
