@@ -1,5 +1,3 @@
-# Machine-Learning-Project
-
 # Heart Disease Machine Learning Exploration
 
 ![Current Version](https://img.shields.io/badge/version-v1.0-blue)
