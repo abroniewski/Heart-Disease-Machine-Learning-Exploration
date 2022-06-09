@@ -35,7 +35,7 @@ This project has a single branch: `main`
 The project is small and will follow the structure below:
 
 ```
-IdelCompute-Data-Management-Architecture
+Heart-Disease-Machine-Learning-Exploration
 	├── README.md
 	├── .gitignore
 	└── src
