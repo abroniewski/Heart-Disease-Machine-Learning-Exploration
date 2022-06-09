@@ -24,7 +24,7 @@ Exploring the concepts and techniques of Machine Learning course at UPC 2021-202
 - [Authors](#authors)
 
   - [Adam Broniewski](#adam-broniewski)
-  - [Vlada Kylynnyk](#vlada-kylynnyk)
+  - [Khushnur Binte](https://github.com/khushnur)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
