@@ -30,7 +30,10 @@ Exploring the concepts and techniques of Machine Learning course at UPC 2021-202
 
 ## Getting Started
 
-This project has a single branch: `main`
+The project was complete in 2022 as part of the Big Data Management and Analytics (BDMA) program for the Machine Learning course at Universitat Politecnic de Catalunya (UPC) in Barcelona.
+
+**Are you a current BDMA student?** Don't be shy! [Reach out](mailto:abroniewski@gmail.com?subject=[GitHub]%20ML%20Project) for insights and tips!
+
 
 The project is small and will follow the structure below:
 
