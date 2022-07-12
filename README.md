@@ -4,8 +4,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/abroniewski/IdleCompute-Data-Management-Architecture)
 ![GitHub stars](https://img.shields.io/github/stars/abroniewski/IdleCompute-Data-Management-Architecture?style=social)
 
-Exploring the concepts and techniques of Machine Learning course at UPC 2021-2022.
-
 ## Table of contents
 
 [](https://)
