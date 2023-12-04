@@ -9,18 +9,13 @@
 [](https://)
 
 - [Getting Started](#getting-started)
-
-  - [Tools Required](#tools-required)
-  - [Installation](#installation)
 - [Development](#development)
-
-  - [Dataset Background](#Dataset-Background)
-  - [Pre-processing](#Pre-processing)
-  - [Predictive Modeling](#Predictive-Modeling)
-  - [Conclusions](#Conclusions)
-  - [Extensions and Limitations](#Extensions-and-Limitations)
+  - [Dataset Background](#dataset-background)
+  - [Pre-processing](#pre-processing)
+  - [Predictive Modeling](#predictive-modeling)
+  - [Conclusions](#conclusions)
+  - [Extensions and Limitations](#extensions-and-limitations)
 - [Authors](#authors)
-
   - [Adam Broniewski](#adam-broniewski)
   - [Khushnur Binte](https://github.com/khushnur)
 - [License](#license)
@@ -71,6 +66,8 @@ The steps taken the complete the work include
      * without feature selection
    * Results Analysis and Model Selection
    * Final Model Estimated Performance
+  
+<img src="doc/Data Project Overview.jpg" width="500"/>
 
 ### Dataset Background
 
