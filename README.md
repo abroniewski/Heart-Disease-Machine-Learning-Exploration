@@ -27,6 +27,7 @@ The project was complete in 2022 as part of the Big Data Management and Analytic
 
 **Are you a current BDMA student?** Don't be shy! [Reach out](mailto:abroniewski@gmail.com?subject=[GitHub]%20ML%20Project) for insights and tips!
 
+Full report with visualizations is located [here](doc/Heart Disease Predictions_KhushnurBinte and AdamBroniewski.pdf).
 
 The project is small and will follow the structure below:
 
