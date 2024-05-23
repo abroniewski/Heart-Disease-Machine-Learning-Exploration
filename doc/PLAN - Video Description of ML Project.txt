@@ -1,0 +1,47 @@
+Intro
+What is problem - HD dataset
+
+Objectives
+Apply ML techniques to Classify heart disease or not
+
+Results
+EDA overview
+-dataset summary
+-on-hot encoding
+-target variable - 0/1
+-outliers - 1.5*IQR
+-skewed data + transformation
+-interesting findings:
+	-ST_depression = 0
+	-male/female
+-feature commentary
+-feature correlation
+
+MODELING
+-validation
+	-test/train/validate split
+		-startifcation
+	-cross validate
+	-final = test
+-models (Simple)
+	-grid search
+-models (Complex)
+	-random search
+-feature selection
+-metrics
+
+DISCUSSION
+
+CONTEXT
+-model explainability -> NLP vs logistics regression
+
+MODEL RESULTS
+Final %'s
+
+
+EXTENSIONS
+-dataset size
+-fold size as limitation -> consider other validations
+-one-hot encode all
+-feature selection using LR coefficients
+-ensemble

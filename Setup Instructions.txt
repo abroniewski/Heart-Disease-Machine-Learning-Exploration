@@ -1,0 +1,11 @@
+Clone git repository from:
+https://github.com/abroniewski/Heart-Disease-Machine-Learning-Exploration
+
+The dataset file is:
+data/processed.cleveland.data
+
+Ensure the dataset file is located in subdirectory:
+/data
+
+Run the notebook located here:
+src/Heart_Disease_Detection.ipynb
