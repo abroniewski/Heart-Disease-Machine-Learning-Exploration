@@ -1,43 +1,38 @@
-# Machine-Learning-Project
-
 # Heart Disease Machine Learning Exploration
 
 ![Current Version](https://img.shields.io/badge/version-v1.0-blue)
 ![GitHub contributors](https://img.shields.io/github/contributors/abroniewski/IdleCompute-Data-Management-Architecture)
 ![GitHub stars](https://img.shields.io/github/stars/abroniewski/IdleCompute-Data-Management-Architecture?style=social)
 
-Exploring the concepts and techniques of Machine Learning course at UPC 2021-2022.
-
 ## Table of contents
 
 [](https://)
 
 - [Getting Started](#getting-started)
-
-  - [Tools Required](#tools-required)
-  - [Installation](#installation)
 - [Development](#development)
-
-  - [Dataset Background](#Dataset-Background)
-  - [Pre-processing](#Pre-processing)
-  - [Predictive Modeling](#Predictive-Modeling)
-  - [Conclusions](#Conclusions)
-  - [Extensions and Limitations](#Extensions-and-Limitations)
+  - [Dataset Background](#dataset-background)
+  - [Pre-processing](#pre-processing)
+  - [Predictive Modeling](#predictive-modeling)
+  - [Conclusions](#conclusions)
+  - [Extensions and Limitations](#extensions-and-limitations)
 - [Authors](#authors)
-
   - [Adam Broniewski](#adam-broniewski)
-  - [Vlada Kylynnyk](#vlada-kylynnyk)
+  - [Khushnur Binte](https://github.com/khushnur)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
-This project has a single branch: `main`
+The project was complete in 2022 as part of the Big Data Management and Analytics (BDMA) program for the Machine Learning course at Universitat Politecnic de Catalunya (UPC) in Barcelona.
+
+**Are you a current BDMA student?** Don't be shy! [Reach out](mailto:abroniewski@gmail.com?subject=[GitHub]%20ML%20Project) for insights and tips!
+
+Full report with visualizations is located [here](doc/Heart%20Disease%20Predictions_KhushnurBinte%20and%20AdamBroniewski.pdf).
 
 The project is small and will follow the structure below:
 
 ```
-IdelCompute-Data-Management-Architecture
+Heart-Disease-Machine-Learning-Exploration
 	├── README.md
 	├── .gitignore
 	└── src
@@ -72,6 +67,8 @@ The steps taken the complete the work include
      * without feature selection
    * Results Analysis and Model Selection
    * Final Model Estimated Performance
+  
+<img src="doc/Data Project Overview.jpg" width="500"/>
 
 ### Dataset Background
 
